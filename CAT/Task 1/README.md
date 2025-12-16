@@ -41,7 +41,8 @@ def blind_SQLi():
 blind_SQLi()
 ```
 
-![[Pasted image 20251217010424.png]]
+<img width="727" height="781" alt="Pasted image 20251217010424" src="https://github.com/user-attachments/assets/1a53da64-9cc2-417d-9986-4858c38c41ab" />
+
 
 ---
 ### Explanation of why the app is vulnerable 
