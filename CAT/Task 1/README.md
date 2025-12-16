@@ -48,6 +48,7 @@ Now Let's login using the password we've got : `admin / V3ry_D4mn_S3cure_P4ssw0r
 
 <img width="547" height="152" alt="image" src="https://github.com/user-attachments/assets/dacaa38d-a378-4d4f-a150-842bacce82da" />
 
+We've got the flag!!
 
 ---
 ### Explanation of why the app is vulnerable 
