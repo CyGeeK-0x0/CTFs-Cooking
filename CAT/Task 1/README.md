@@ -44,6 +44,11 @@ blind_SQLi()
 <img width="727" height="781" alt="Pasted image 20251217010424" src="https://github.com/user-attachments/assets/1a53da64-9cc2-417d-9986-4858c38c41ab" />
 
 
+Now Let's login using the password we've got : `admin / V3ry_D4mn_S3cure_P4ssw0rd!!`
+
+<img width="547" height="152" alt="image" src="https://github.com/user-attachments/assets/dacaa38d-a378-4d4f-a150-842bacce82da" />
+
+
 ---
 ### Explanation of why the app is vulnerable 
 ##### XSS
